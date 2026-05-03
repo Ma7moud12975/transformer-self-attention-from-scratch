@@ -1,4 +1,4 @@
-# 🧠 Transformer Self-Attention from Scratch
+# Transformer Self-Attention from Scratch
 
 <img width="1000" height="667" alt="image" src="https://github.com/user-attachments/assets/847783c1-21de-4fd2-b839-12fddf96307e" />
 
@@ -19,7 +19,7 @@ It is designed for educational purposes to help understand how attention works m
 
 ---
 
-## 📌 What is Self-Attention?
+## What is Self-Attention?
 
 Self-attention allows each word in a sentence to focus on other relevant words when forming its representation.
 
@@ -31,7 +31,7 @@ Attention(Q, K, V) = softmax(QKᵀ / √dₖ) V
 
 ---
 
-## 🧪 Example
+##  Example
 
 Input sentence:
 
