@@ -1,5 +1,8 @@
 # 🧠 Transformer Self-Attention from Scratch
 
+<img width="1000" height="667" alt="image" src="https://github.com/user-attachments/assets/847783c1-21de-4fd2-b839-12fddf96307e" />
+
+
 This repository provides a clean and minimal implementation of the **self-attention mechanism** used in Transformer models, built from scratch using PyTorch.
 
 It is designed for educational purposes to help understand how attention works mathematically and computationally.
@@ -39,24 +42,4 @@ Output:
 - Attention weights matrix showing how each word attends to others
 - Context-aware embeddings
 
----
 
-## 🛠️ Installation
-
-```bash
-git clone https://github.com/your-username/transformer-self-attention-from-scratch.git
-cd transformer-self-attention-from-scratch
-pip install torch
-▶️ Usage
-python self_attention.py
-📊 Sample Output
-Attention Weights Matrix (heatmap)
-Contextualized embeddings
-📚 Concepts Covered
-Transformer Architecture
-Self-Attention Mechanism
-Scaled Dot-Product Attention
-Softmax Normalization
-🎯 Goal
-
-This project aims to bridge the gap between theory and implementation of Transformers for students and developers.
